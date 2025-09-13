@@ -1,10 +1,10 @@
 #include "stdio.h"
 
 int main() {
-    int idade = 20;
-    float altura = 1.75;
+    int idade = 14;
+    float altura = 1.71;
     char genero = 'M';
-    char nome[] = "Joao";
+    char nome[] = "Louis";
 
     printf("Nome: %s\n", nome);
     printf("Idade: %d\n", idade);
@@ -12,4 +12,4 @@ int main() {
     printf("Genero: %c\n", genero);
 
     return 0;
-}
+};
