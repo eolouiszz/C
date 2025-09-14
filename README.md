@@ -5,4 +5,4 @@ dia 1 = irei aprender o basico, Prints, Variaveis e etc...
 
 dia 2 = o resto do basico, funções, condições, loops.
 
-dia 3 = tentar juntar tudo em um projetin simples
+dia 3 = fazer/estudar um projetinho simples de gerador de tabuada por terminal :))
